@@ -19,8 +19,10 @@ The application typically takes the following fields as input;
 - Projects (user is allowed to add more than one education field)
 
 ### What to expect from the application
-Once the user has entered all the required fields, the user should click the submit button.
-Upon clicking the submit button, the application will generate and download a PDF file containing all the information that the user entered, styled in a way of a typical resume. 
+Once the user has entered all the required fields, the user should click the submit button.  
+
+Upon clicking the submit button, the application will generate and download a PDF file containing all the information that the user entered, styled in a way of a typical resume.  
+
 
 The application is purely front end based and keeps no record of user entered data in the backend
 
