@@ -3,8 +3,9 @@ An online resume builder which takes in all the necessary details, such as name,
 
 ### How to start the application 
 Download the zip file and once you are done unzipping it, open it in a choice of your IDE. Ensure that you have installed Angular (Version 14), Angular Material library, Font Awesome library, NZ Zorro library and JEST library for the project to function properly. 
-Once the project folder is opened in the IDE, use the following command to start the project. 
-`ng serve --open`
+Once the project folder is opened in the IDE, use the command `ng serve --open` to start the project.  
+
+
 The project should be up and running
 
 ### What are the input fields
